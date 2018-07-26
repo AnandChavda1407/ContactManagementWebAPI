@@ -1,0 +1,16 @@
+c:\users\admin\source\repos\ContactInfoManagement\ContactInfoManagement.DAL\bin\Debug\ContactInfoManagement.DAL.dll.config
+c:\users\admin\source\repos\ContactInfoManagement\ContactInfoManagement.DAL\bin\Debug\ContactInfoManagement.DAL.dll
+c:\users\admin\source\repos\ContactInfoManagement\ContactInfoManagement.DAL\bin\Debug\ContactInfoManagement.DAL.pdb
+c:\users\admin\source\repos\ContactInfoManagement\ContactInfoManagement.DAL\bin\Debug\ContactInfoManagement.Entities.dll
+c:\users\admin\source\repos\ContactInfoManagement\ContactInfoManagement.DAL\bin\Debug\EntityFramework.dll
+c:\users\admin\source\repos\ContactInfoManagement\ContactInfoManagement.DAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\admin\source\repos\ContactInfoManagement\ContactInfoManagement.DAL\bin\Debug\log4net.dll
+c:\users\admin\source\repos\ContactInfoManagement\ContactInfoManagement.DAL\bin\Debug\ContactInfoManagement.Entities.pdb
+c:\users\admin\source\repos\ContactInfoManagement\ContactInfoManagement.DAL\bin\Debug\EntityFramework.xml
+c:\users\admin\source\repos\ContactInfoManagement\ContactInfoManagement.DAL\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\admin\source\repos\ContactInfoManagement\ContactInfoManagement.DAL\bin\Debug\log4net.xml
+c:\users\admin\source\repos\ContactInfoManagement\ContactInfoManagement.DAL\obj\Debug\ContactInfoManagement.DAL.csprojAssemblyReference.cache
+c:\users\admin\source\repos\ContactInfoManagement\ContactInfoManagement.DAL\obj\Debug\ContactInfoManagement.DAL.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\ContactInfoManagement\ContactInfoManagement.DAL\obj\Debug\ContactInfoManagement.DAL.csproj.CopyComplete
+c:\users\admin\source\repos\ContactInfoManagement\ContactInfoManagement.DAL\obj\Debug\ContactInfoManagement.DAL.dll
+c:\users\admin\source\repos\ContactInfoManagement\ContactInfoManagement.DAL\obj\Debug\ContactInfoManagement.DAL.pdb

@@ -1,0 +1,32 @@
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.DAL\bin\Release\ContactInfoManagement.DAL.dll.config
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.DAL\bin\Release\ContactInfoManagement.DAL.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.DAL\bin\Release\ContactInfoManagement.DAL.pdb
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.DAL\bin\Release\ContactInfoManagement.Entities.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.DAL\bin\Release\EntityFramework.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.DAL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.DAL\bin\Release\log4net.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.DAL\bin\Release\ContactInfoManagement.Entities.pdb
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.DAL\bin\Release\EntityFramework.xml
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.DAL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.DAL\bin\Release\log4net.xml
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.DAL\obj\Release\ContactInfoManagement.DAL.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.DAL\obj\Release\ContactInfoManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.DAL\obj\Release\ContactInfoManagement.DAL.csproj.CopyComplete
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.DAL\obj\Release\ContactInfoManagement.DAL.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.DAL\obj\Release\ContactInfoManagement.DAL.pdb
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.DAL\bin\Release\ContactInfoManagement.DAL.dll.config
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.DAL\bin\Release\ContactInfoManagement.DAL.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.DAL\bin\Release\ContactInfoManagement.DAL.pdb
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.DAL\bin\Release\ContactInfoManagement.Entities.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.DAL\bin\Release\EntityFramework.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.DAL\bin\Release\EntityFramework.SqlServer.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.DAL\bin\Release\log4net.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.DAL\bin\Release\ContactInfoManagement.Entities.pdb
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.DAL\bin\Release\EntityFramework.xml
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.DAL\bin\Release\EntityFramework.SqlServer.xml
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.DAL\bin\Release\log4net.xml
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.DAL\obj\Release\ContactInfoManagement.DAL.csprojAssemblyReference.cache
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.DAL\obj\Release\ContactInfoManagement.DAL.csproj.CoreCompileInputs.cache
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.DAL\obj\Release\ContactInfoManagement.DAL.csproj.CopyComplete
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.DAL\obj\Release\ContactInfoManagement.DAL.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.DAL\obj\Release\ContactInfoManagement.DAL.pdb

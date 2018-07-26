@@ -1,0 +1,5 @@
+c:\users\admin\source\repos\ContactInfoManagement\ContactInfoManagement.Entities\bin\Debug\ContactInfoManagement.Entities.dll
+c:\users\admin\source\repos\ContactInfoManagement\ContactInfoManagement.Entities\bin\Debug\ContactInfoManagement.Entities.pdb
+c:\users\admin\source\repos\ContactInfoManagement\ContactInfoManagement.Entities\obj\Debug\ContactInfoManagement.Entities.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\ContactInfoManagement\ContactInfoManagement.Entities\obj\Debug\ContactInfoManagement.Entities.dll
+c:\users\admin\source\repos\ContactInfoManagement\ContactInfoManagement.Entities\obj\Debug\ContactInfoManagement.Entities.pdb

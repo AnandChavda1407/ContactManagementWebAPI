@@ -1,0 +1,252 @@
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\ApplicationInsights.config
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\ContactInfoManagement.WebAPI.dll.config
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\ContactInfoManagement.WebAPI.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\ContactInfoManagement.WebAPI.pdb
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\csc.exe
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\csc.exe.config
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\csc.rsp
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\csi.exe
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\csi.exe.config
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\csi.rsp
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\System.Console.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\vbc.exe
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\vbc.exe.config
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\vbc.rsp
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\CommonServiceLocator.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\ContactInfoManagement.DAL.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\ContactInfoManagement.Entities.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\EntityFramework.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\log4net.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Microsoft.AI.Web.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\System.Web.Helpers.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\System.Web.Http.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\System.Web.Mvc.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\System.Web.Optimization.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\System.Web.Razor.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\System.Web.WebPages.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Unity.Abstractions.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Unity.Configuration.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Unity.Container.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Unity.Interception.Configuration.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Unity.Interception.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Unity.RegistrationByConvention.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Unity.ServiceLocation.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\WebGrease.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\ContactInfoManagement.DAL.pdb
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\ContactInfoManagement.DAL.dll.config
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\ContactInfoManagement.Entities.pdb
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\CommonServiceLocator.pdb
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\EntityFramework.xml
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\log4net.xml
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\System.Web.Helpers.xml
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\System.Web.Http.xml
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\System.Web.Mvc.xml
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\System.Web.Optimization.xml
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\System.Web.Razor.xml
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\System.Web.WebPages.xml
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Unity.Abstractions.pdb
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Unity.Configuration.pdb
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Unity.Container.pdb
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Unity.Interception.pdb
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Unity.Interception.Configuration.pdb
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Unity.RegistrationByConvention.pdb
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Unity.ServiceLocation.pdb
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Microsoft.AI.Web.xml
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\obj\Release\ContactInfoManagement.WebAPI.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\obj\Release\ContactInfoManagement.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\obj\Release\ContactInfoManagement.WebAPI.csproj.CopyComplete
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\obj\Release\ContactInfoManagement.WebAPI.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.WebAPI\obj\Release\ContactInfoManagement.WebAPI.pdb
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\ApplicationInsights.config
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\ContactInfoManagement.WebAPI.dll.config
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\ContactInfoManagement.WebAPI.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\ContactInfoManagement.WebAPI.pdb
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\csc.exe
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\csc.exe.config
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\csc.rsp
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\csi.exe
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\csi.exe.config
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\csi.rsp
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\System.AppContext.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\System.Console.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\System.Diagnostics.Process.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\System.IO.Compression.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\System.IO.FileSystem.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\System.IO.Pipes.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\System.Security.AccessControl.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\System.Security.Claims.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\System.Threading.Thread.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\System.ValueTuple.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\System.Xml.XPath.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\vbc.exe
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\vbc.exe.config
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\vbc.rsp
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\VBCSCompiler.exe
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Antlr3.Runtime.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\CommonServiceLocator.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\ContactInfoManagement.DAL.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\ContactInfoManagement.Entities.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\EntityFramework.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\EntityFramework.SqlServer.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\log4net.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Microsoft.AI.Web.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Microsoft.AI.WindowsServer.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Microsoft.ApplicationInsights.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Newtonsoft.Json.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\System.Net.Http.Formatting.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\System.Web.Helpers.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\System.Web.Http.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\System.Web.Http.WebHost.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\System.Web.Mvc.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\System.Web.Optimization.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\System.Web.Razor.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\System.Web.WebPages.Deployment.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\System.Web.WebPages.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\System.Web.WebPages.Razor.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Unity.Abstractions.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Unity.Configuration.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Unity.Container.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Unity.Interception.Configuration.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Unity.Interception.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Unity.RegistrationByConvention.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Unity.ServiceLocation.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\WebGrease.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\ContactInfoManagement.DAL.pdb
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\ContactInfoManagement.DAL.dll.config
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\ContactInfoManagement.Entities.pdb
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\CommonServiceLocator.pdb
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\EntityFramework.xml
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\EntityFramework.SqlServer.xml
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\log4net.xml
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Newtonsoft.Json.xml
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\System.Net.Http.Formatting.xml
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\System.Web.Helpers.xml
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\System.Web.Http.xml
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\System.Web.Http.WebHost.xml
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\System.Web.Mvc.xml
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\System.Web.Optimization.xml
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\System.Web.Razor.xml
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\System.Web.WebPages.xml
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\System.Web.WebPages.Deployment.xml
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\System.Web.WebPages.Razor.xml
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Unity.Abstractions.pdb
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Unity.Configuration.pdb
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Unity.Container.pdb
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Unity.Interception.pdb
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Unity.Interception.Configuration.pdb
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Unity.RegistrationByConvention.pdb
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Unity.ServiceLocation.pdb
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Antlr3.Runtime.pdb
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Microsoft.AI.WindowsServer.xml
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Microsoft.AI.Web.xml
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\obj\Release\ContactInfoManagement.WebAPI.csprojAssemblyReference.cache
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\obj\Release\ContactInfoManagement.WebAPI.csproj.CoreCompileInputs.cache
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\obj\Release\ContactInfoManagement.WebAPI.csproj.CopyComplete
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\obj\Release\ContactInfoManagement.WebAPI.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.WebAPI\obj\Release\ContactInfoManagement.WebAPI.pdb

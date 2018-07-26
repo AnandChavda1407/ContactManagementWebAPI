@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.Entities\bin\Release\ContactInfoManagement.Entities.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.Entities\bin\Release\ContactInfoManagement.Entities.pdb
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.Entities\obj\Release\ContactInfoManagement.Entities.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.Entities\obj\Release\ContactInfoManagement.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.Entities\obj\Release\ContactInfoManagement.Entities.dll
+C:\Users\Admin\source\repos\ContactInfoManagement\ContactInfoManagement.Entities\obj\Release\ContactInfoManagement.Entities.pdb
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.Entities\bin\Release\ContactInfoManagement.Entities.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.Entities\bin\Release\ContactInfoManagement.Entities.pdb
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.Entities\obj\Release\ContactInfoManagement.Entities.csprojAssemblyReference.cache
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.Entities\obj\Release\ContactInfoManagement.Entities.csproj.CoreCompileInputs.cache
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.Entities\obj\Release\ContactInfoManagement.Entities.dll
+D:\Contact_Management_WEBAPI\Source Code\ContactInfoManagement\ContactInfoManagement.Entities\obj\Release\ContactInfoManagement.Entities.pdb
